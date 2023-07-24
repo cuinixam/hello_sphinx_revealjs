@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier
+_commit: e393f42
+_src_path: .
+copyright_year: '2023'
+documentation: true
+email: me@cuinixam.com
+full_name: cuinixam
+github_username: cuinixam
+initial_commit: false
+open_source_license: MIT
+package_name: my_notes
+project_name: my_notes
+project_short_description: My notes.
+project_slug: my_notes
+run_poetry_install: false
+setup_github: false
+setup_pre_commit: false
+
